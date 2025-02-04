@@ -14,10 +14,10 @@ Some of the languages and tools I use:
 </div>
 
 ## 🚀 Top Data Projects
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Global-Electronics-Retailer)
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Adidas-Sales-Analysis)
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Sales-and-Customer-Performance-Dashboard)
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Mavens-Pizza-Sales-Insight)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
 
 <p align="left">
   <a href="https://github.com/rojanamx?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
