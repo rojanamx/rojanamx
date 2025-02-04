@@ -13,7 +13,7 @@ Some of the languages and tools I use:
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 </div>
 
-## 🚀 Top Data Projects
+## 🚀 Data Projects
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=rojanamx&repo=Project-Name&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rojanamx/Project-Name)
